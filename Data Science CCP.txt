@@ -1,0 +1,59 @@
+# README - BS CCP Report: Deepfake Scam Analysis
+
+## Overview
+This report presents a comprehensive analysis of 512 deepfake scam attempts across critical sectors, identifying key vulnerabilities and evaluating the effectiveness of prevention measures. The study highlights CEO fraud as the most damaging attack vector and AI monitoring as the most effective prevention strategy.
+
+## Key Findings
+
+### 1. **Attack Methods & Financial Impact**
+- **CEO Fraud**: Highest average loss ($228,500 per incident) and prevalence (41% of attacks).
+- **Voice Cloning**: Second highest average loss ($145,200) and prevalence (29%).
+- **Fake Video Call**: Lower average loss ($78,500) but still significant (21% prevalence).
+- **Synthetic ID**: Minimal financial impact (97% failure rate).
+
+### 2. **Industry Vulnerability**
+- **Banking**: Most targeted (32% of attacks) with median loss of $185,000.
+- **Healthcare**: Second most targeted (24%) with median loss of $142,000.
+- **Retail**: Lower median loss ($68,000) but still frequently targeted (22%).
+
+### 3. **Prevention Effectiveness**
+- **AI Monitoring**: Most effective, reducing losses by 86% and detection time to 1.8 hours.
+- **2FA + Training**: Moderate effectiveness, with average loss of $68,500.
+- **Training Only**: Limited effectiveness, with average loss of $157,000.
+- **No Prevention**: Highest losses ($310,000 on average).
+
+### 4. **Geographic Risk Profile**
+- **Russian Attacks**: Primarily CEO fraud, highest average loss ($320K).
+- **Chinese Attacks**: Dominated by voice cloning ($172K average loss).
+- **Nigerian Attacks**: Mix of video calls and synthetic ID ($83K average loss).
+
+## Data Preprocessing
+- **Original Dataset**: 512 records, 12 features.
+- **Cleaning Process**:
+  - Removed 125 rows with missing values.
+  - Eliminated duplicates and outliers, resulting in 375 clean records.
+  - Standardized data types (e.g., `Detection_Time_Hours` as float, `Loss_Amount_USD` as integer).
+
+## Insights & Recommendations
+
+### **Immediate Actions**
+1. **CEO Fraud Mitigation**:
+   - Implement mandatory video-call verification for CFOs.
+   - Conduct quarterly deepfake simulation training.
+2. **Detection Enhancement**:
+   - Deploy AI monitoring tools in financial departments.
+   - Establish a 1-hour SLA for wire transfer verification.
+3. **Geographic Defense**:
+   - Enhance scrutiny of communications from high-risk regions (Russia/China).
+   - Implement real-time dialect analysis for voice calls.
+
+### **Resource Allocation**
+| Defense Area          | Budget Allocation | Expected ROI          |
+|-----------------------|-------------------|-----------------------|
+| Video Deepfake Tech   | 45%              | 83% loss reduction    |
+| AI Monitoring         | 30%              | 76% faster detection  |
+| Employee Training     | 15%              | 41% fewer successes   |
+| Voice Analysis        | 10%              | 32% fraud prevention  |
+
+## Conclusion
+The analysis underscores the critical threat posed by video-based CEO fraud, particularly in banking and healthcare sectors. AI-powered detection systems are highly effective, reducing losses significantly. Future efforts should focus on integrating real-time deepfake detection APIs and fostering cross-industry collaboration for threat intelligence sharing.

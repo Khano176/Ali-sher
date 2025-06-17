@@ -1,0 +1,501 @@
+Scam_ID,Target_Industry,Attack_Method,Deepfake_Type,Loss_Amount_USD,Detection_Time_Hours,Detection_Tool,Geographic_Origin,Payload_Type,Employee_Role_Targeted,Prevention_Measures,Legal_Action_Taken
+SC-1001,Tech,Synthetic ID,Video,58327,9.9,AI Scanner,North Korea,Urgent Wire Request,CFO,None,No
+SC-1002,Tech,CEO Fraud,Audio,360224,0.4,Internal Audit,Iran,Phishing Link,HR,None,Lawsuit Pending
+SC-1003,Retail,Voice Cloning,Video,291493,6.8,Victim Report,Russia,Fake Credentials,HR,AI Monitoring,Yes (Arrest)
+SC-1004,Banking,Fake Video Call,Audio,444017,13.3,AI Scanner,Nigeria,Fake Credentials,IT Admin,Training,Yes (Arrest)
+SC-1005,Retail,CEO Fraud,Video,18117,16.2,Internal Audit,Nigeria,Fake Credentials,HR,AI Monitoring,No
+SC-1006,Government,Synthetic ID,Hybrid,365332,21.5,Victim Report,China,Urgent Wire Request,IT Admin,AI Monitoring,Lawsuit Pending
+SC-1007,Banking,CEO Fraud,Hybrid,414678,9.8,AI Scanner,Russia,Fake Invoice,HR,2FA,Yes (Arrest)
+SC-1008,Tech,CEO Fraud,Video,72326,21.3,Internal Audit,Russia,Fake Credentials,IT Admin,2FA,No
+SC-1009,Healthcare,CEO Fraud,Audio,179191,18.7,Victim Report,North Korea,Urgent Wire Request,CFO,Training,Yes (Arrest)
+SC-1010,Banking,Synthetic ID,Audio,227966,0.3,AI Scanner,China,Fake Invoice,HR,Training,Yes (Arrest)
+SC-1011,Healthcare,CEO Fraud,Video,470817,7.6,AI Scanner,Nigeria,Phishing Link,CFO,Training,Lawsuit Pending
+SC-1012,Government,CEO Fraud,Video,419301,19.4,Victim Report,China,Fake Invoice,IT Admin,2FA,Lawsuit Pending
+SC-1013,Banking,Synthetic ID,Video,168449,12.7,Victim Report,Nigeria,Fake Invoice,CFO,AI Monitoring,Yes (Arrest)
+SC-1014,Healthcare,CEO Fraud,Audio,309363,3.0,Victim Report,North Korea,Phishing Link,Customer Support,2FA,Lawsuit Pending
+SC-1015,Government,CEO Fraud,Video,5664,21.0,AI Scanner,Iran,Fake Invoice,HR,Training,Lawsuit Pending
+SC-1016,Tech,Fake Video Call,Video,76694,9.9,Human Review,Nigeria,Fake Invoice,Customer Support,AI Monitoring,No
+SC-1017,Tech,Synthetic ID,Video,25217,21.7,Human Review,Nigeria,Fake Credentials,Customer Support,None,Lawsuit Pending
+SC-1018,Tech,Synthetic ID,Image,424860,5.8,Human Review,North Korea,Fake Invoice,CFO,None,Yes (Arrest)
+SC-1019,Banking,Voice Cloning,Audio,357705,16.9,Human Review,Iran,Urgent Wire Request,Customer Support,Training,Yes (Arrest)
+SC-1020,Retail,Fake Video Call,Image,383265,8.3,Human Review,Iran,Phishing Link,CFO,None,No
+SC-1021,Banking,Synthetic ID,Audio,257587,16.2,Human Review,Nigeria,Phishing Link,HR,Training,Lawsuit Pending
+SC-1022,Banking,Synthetic ID,Image,114404,2.1,Human Review,North Korea,Fake Invoice,HR,2FA,Lawsuit Pending
+SC-1023,Banking,Fake Video Call,Image,309493,0.3,Victim Report,North Korea,Urgent Wire Request,HR,AI Monitoring,No
+SC-1024,Tech,CEO Fraud,Video,330730,14.2,Victim Report,China,Fake Credentials,IT Admin,2FA,Lawsuit Pending
+SC-1025,Healthcare,Fake Video Call,Video,62464,10.0,Internal Audit,North Korea,Fake Credentials,Customer Support,AI Monitoring,No
+SC-1026,Banking,CEO Fraud,Hybrid,255415,1.2,AI Scanner,North Korea,Fake Invoice,CFO,AI Monitoring,Yes (Arrest)
+SC-1027,Retail,Synthetic ID,Audio,333052,23.7,AI Scanner,Iran,Urgent Wire Request,HR,2FA,Lawsuit Pending
+SC-1028,Tech,CEO Fraud,Hybrid,329834,20.3,AI Scanner,North Korea,Fake Invoice,HR,AI Monitoring,Lawsuit Pending
+SC-1029,Tech,Synthetic ID,Image,319,10.6,Internal Audit,North Korea,Urgent Wire Request,IT Admin,AI Monitoring,No
+SC-1030,Tech,CEO Fraud,Hybrid,424431,16.8,Human Review,Nigeria,Urgent Wire Request,IT Admin,2FA,Lawsuit Pending
+SC-1031,Healthcare,Voice Cloning,Hybrid,284534,17.9,AI Scanner,Nigeria,Urgent Wire Request,HR,2FA,No
+SC-1032,Retail,Voice Cloning,Audio,317577,10.4,Victim Report,Nigeria,Urgent Wire Request,IT Admin,2FA,Yes (Arrest)
+SC-1033,Retail,CEO Fraud,Image,182501,8.0,Human Review,Nigeria,Fake Credentials,CFO,None,No
+SC-1034,Banking,CEO Fraud,Hybrid,79093,13.1,Human Review,Iran,Fake Invoice,IT Admin,None,Lawsuit Pending
+SC-1035,Healthcare,Voice Cloning,Video,412669,10.1,Victim Report,China,Fake Invoice,IT Admin,None,No
+SC-1036,Tech,CEO Fraud,Hybrid,19652,2.2,AI Scanner,China,Fake Credentials,HR,AI Monitoring,Yes (Arrest)
+SC-1037,Tech,Fake Video Call,Hybrid,129362,5.6,Human Review,Iran,Fake Credentials,Customer Support,None,No
+SC-1038,Healthcare,Fake Video Call,Audio,318228,7.0,Internal Audit,North Korea,Phishing Link,Customer Support,None,No
+SC-1039,Tech,CEO Fraud,Image,352552,7.8,Internal Audit,Nigeria,Urgent Wire Request,IT Admin,None,Lawsuit Pending
+SC-1040,Healthcare,Voice Cloning,Video,444860,12.7,Victim Report,Russia,Fake Credentials,CFO,AI Monitoring,No
+SC-1041,Tech,Fake Video Call,Hybrid,489371,3.9,Internal Audit,North Korea,Phishing Link,Customer Support,AI Monitoring,Lawsuit Pending
+SC-1042,Banking,Fake Video Call,Audio,364276,12.7,Human Review,China,Urgent Wire Request,CFO,None,No
+SC-1043,Banking,Synthetic ID,Image,300690,23.5,AI Scanner,China,Urgent Wire Request,Customer Support,None,No
+SC-1044,Banking,CEO Fraud,Audio,206436,5.5,Internal Audit,China,Fake Credentials,HR,AI Monitoring,Yes (Arrest)
+SC-1045,Tech,CEO Fraud,Video,259178,10.9,Internal Audit,North Korea,Phishing Link,CFO,None,Yes (Arrest)
+SC-1046,Tech,CEO Fraud,Image,89746,10.9,Victim Report,North Korea,Phishing Link,IT Admin,2FA,Yes (Arrest)
+SC-1047,Retail,Fake Video Call,Video,154759,10.4,Human Review,North Korea,Fake Invoice,HR,2FA,Lawsuit Pending
+SC-1048,Government,Synthetic ID,Audio,55634,10.3,Internal Audit,Iran,Fake Credentials,HR,AI Monitoring,No
+SC-1049,Government,Fake Video Call,Hybrid,466903,10.8,Human Review,Iran,Fake Credentials,Customer Support,None,No
+SC-1050,Government,CEO Fraud,Video,465703,10.9,Internal Audit,Nigeria,Phishing Link,IT Admin,Training,Yes (Arrest)
+SC-1051,Retail,Voice Cloning,Image,110158,13.7,Victim Report,North Korea,Urgent Wire Request,CFO,2FA,No
+SC-1052,Healthcare,Fake Video Call,Audio,451947,5.6,Human Review,Iran,Fake Credentials,CFO,2FA,No
+SC-1053,Banking,Fake Video Call,Hybrid,155766,13.4,Human Review,North Korea,Fake Invoice,Customer Support,AI Monitoring,Yes (Arrest)
+SC-1054,Banking,Synthetic ID,Video,398241,11.1,Internal Audit,Nigeria,Fake Invoice,IT Admin,AI Monitoring,Lawsuit Pending
+SC-1055,Banking,Synthetic ID,Hybrid,397618,3.6,Internal Audit,Russia,Fake Invoice,CFO,2FA,No
+SC-1056,Banking,Voice Cloning,Audio,253078,1.4,Human Review,Nigeria,Fake Invoice,CFO,AI Monitoring,Lawsuit Pending
+SC-1057,Retail,Synthetic ID,Video,126706,6.8,Internal Audit,China,Phishing Link,CFO,2FA,Yes (Arrest)
+SC-1058,Banking,Voice Cloning,Audio,207355,11.0,Internal Audit,Iran,Urgent Wire Request,Customer Support,None,Yes (Arrest)
+SC-1059,Healthcare,Synthetic ID,Image,35798,5.2,AI Scanner,North Korea,Fake Credentials,IT Admin,Training,No
+SC-1060,Tech,CEO Fraud,Image,33818,18.1,Victim Report,Iran,Fake Credentials,Customer Support,AI Monitoring,Yes (Arrest)
+SC-1061,Healthcare,CEO Fraud,Audio,396069,21.9,Human Review,Russia,Phishing Link,IT Admin,None,Lawsuit Pending
+SC-1062,Tech,Fake Video Call,Hybrid,141950,12.9,AI Scanner,Russia,Fake Invoice,HR,Training,No
+SC-1063,Retail,Fake Video Call,Audio,33404,11.1,Victim Report,North Korea,Phishing Link,HR,Training,No
+SC-1064,Tech,Voice Cloning,Audio,68397,9.7,Victim Report,Nigeria,Fake Credentials,CFO,Training,Yes (Arrest)
+SC-1065,Government,CEO Fraud,Hybrid,118194,8.5,Internal Audit,China,Urgent Wire Request,CFO,Training,No
+SC-1066,Banking,Synthetic ID,Video,281695,8.7,AI Scanner,China,Fake Invoice,CFO,Training,Yes (Arrest)
+SC-1067,Tech,Voice Cloning,Hybrid,190544,11.7,Human Review,North Korea,Urgent Wire Request,Customer Support,2FA,Yes (Arrest)
+SC-1068,Tech,Synthetic ID,Hybrid,409179,14.5,Internal Audit,Russia,Urgent Wire Request,IT Admin,AI Monitoring,Lawsuit Pending
+SC-1069,Banking,CEO Fraud,Hybrid,59931,8.8,Victim Report,Russia,Urgent Wire Request,Customer Support,Training,Yes (Arrest)
+SC-1070,Tech,CEO Fraud,Video,370797,9.0,Victim Report,Nigeria,Fake Invoice,CFO,AI Monitoring,Yes (Arrest)
+SC-1071,Government,Voice Cloning,Hybrid,174574,6.8,Human Review,Nigeria,Phishing Link,HR,Training,No
+SC-1072,Banking,Voice Cloning,Video,297682,21.2,AI Scanner,Iran,Fake Invoice,HR,AI Monitoring,Lawsuit Pending
+SC-1073,Healthcare,CEO Fraud,Audio,326646,21.2,Human Review,Nigeria,Phishing Link,CFO,None,Yes (Arrest)
+SC-1074,Retail,Fake Video Call,Video,159026,4.1,Human Review,China,Urgent Wire Request,Customer Support,AI Monitoring,Yes (Arrest)
+SC-1075,Tech,Synthetic ID,Image,194486,2.0,Internal Audit,Russia,Fake Invoice,HR,AI Monitoring,Yes (Arrest)
+SC-1076,Government,Voice Cloning,Video,487089,1.4,Victim Report,Iran,Urgent Wire Request,IT Admin,None,Lawsuit Pending
+SC-1077,Healthcare,Voice Cloning,Video,248158,19.8,Human Review,Nigeria,Urgent Wire Request,CFO,Training,No
+SC-1078,Tech,CEO Fraud,Video,390102,3.3,Victim Report,Nigeria,Phishing Link,HR,None,Yes (Arrest)
+SC-1079,Banking,CEO Fraud,Video,362667,8.0,Human Review,China,Urgent Wire Request,IT Admin,None,Lawsuit Pending
+SC-1080,Tech,CEO Fraud,Video,69112,21.6,Victim Report,North Korea,Phishing Link,HR,AI Monitoring,Yes (Arrest)
+SC-1081,Banking,CEO Fraud,Audio,47572,15.0,Victim Report,Russia,Phishing Link,CFO,AI Monitoring,No
+SC-1082,Retail,Fake Video Call,Video,236240,15.8,AI Scanner,Iran,Phishing Link,HR,AI Monitoring,Lawsuit Pending
+SC-1083,Government,Voice Cloning,Audio,96238,18.3,Human Review,Russia,Phishing Link,IT Admin,AI Monitoring,No
+SC-1084,Banking,Synthetic ID,Audio,111050,10.3,Internal Audit,Nigeria,Fake Credentials,IT Admin,2FA,Lawsuit Pending
+SC-1085,Healthcare,Synthetic ID,Hybrid,73518,10.4,Internal Audit,Russia,Fake Invoice,CFO,AI Monitoring,Lawsuit Pending
+SC-1086,Retail,Voice Cloning,Hybrid,346749,22.1,AI Scanner,North Korea,Fake Invoice,Customer Support,Training,No
+SC-1087,Banking,Fake Video Call,Video,385038,14.0,Human Review,North Korea,Urgent Wire Request,Customer Support,AI Monitoring,No
+SC-1088,Government,Synthetic ID,Hybrid,389107,5.8,Victim Report,North Korea,Fake Invoice,CFO,2FA,Yes (Arrest)
+SC-1089,Banking,CEO Fraud,Hybrid,215034,2.1,Victim Report,Nigeria,Phishing Link,HR,None,Yes (Arrest)
+SC-1090,Retail,Fake Video Call,Hybrid,144482,1.3,AI Scanner,North Korea,Fake Invoice,HR,None,No
+SC-1091,Government,Voice Cloning,Hybrid,161425,14.9,Victim Report,North Korea,Urgent Wire Request,CFO,Training,Yes (Arrest)
+SC-1092,Retail,Synthetic ID,Hybrid,17281,9.7,AI Scanner,Nigeria,Fake Credentials,IT Admin,AI Monitoring,Lawsuit Pending
+SC-1093,Retail,Synthetic ID,Image,198648,22.5,Internal Audit,Iran,Urgent Wire Request,HR,Training,No
+SC-1094,Tech,CEO Fraud,Audio,167936,7.6,Internal Audit,Russia,Fake Credentials,IT Admin,Training,No
+SC-1095,Retail,CEO Fraud,Image,413020,22.5,Victim Report,Iran,Fake Invoice,Customer Support,2FA,Lawsuit Pending
+SC-1096,Banking,Synthetic ID,Hybrid,128248,5.6,Victim Report,Iran,Urgent Wire Request,Customer Support,2FA,Yes (Arrest)
+SC-1097,Retail,Fake Video Call,Video,41856,17.7,Human Review,Nigeria,Fake Invoice,CFO,None,Yes (Arrest)
+SC-1098,Healthcare,Voice Cloning,Audio,329118,23.8,Victim Report,Russia,Fake Credentials,IT Admin,Training,Lawsuit Pending
+SC-1099,Government,Fake Video Call,Image,397631,13.0,Victim Report,Russia,Phishing Link,Customer Support,None,No
+SC-1100,Government,Voice Cloning,Audio,159719,14.0,AI Scanner,Russia,Urgent Wire Request,CFO,AI Monitoring,Yes (Arrest)
+SC-1101,Retail,Synthetic ID,Video,131495,7.9,AI Scanner,North Korea,Fake Invoice,Customer Support,Training,Lawsuit Pending
+SC-1102,Retail,CEO Fraud,Video,164112,0.4,Human Review,North Korea,Urgent Wire Request,IT Admin,2FA,No
+SC-1103,Tech,CEO Fraud,Image,466702,7.9,AI Scanner,Russia,Phishing Link,Customer Support,2FA,Lawsuit Pending
+SC-1104,Retail,CEO Fraud,Video,15710,2.8,Victim Report,Iran,Fake Invoice,HR,None,Yes (Arrest)
+SC-1105,Tech,CEO Fraud,Image,201015,16.3,AI Scanner,China,Fake Invoice,IT Admin,2FA,No
+SC-1106,Healthcare,Fake Video Call,Hybrid,178725,13.4,AI Scanner,Iran,Fake Credentials,HR,AI Monitoring,No
+SC-1107,Banking,CEO Fraud,Hybrid,263446,9.3,Victim Report,Russia,Fake Invoice,CFO,AI Monitoring,Lawsuit Pending
+SC-1108,Banking,Synthetic ID,Audio,460572,15.9,AI Scanner,Iran,Fake Credentials,HR,None,No
+SC-1109,Tech,Voice Cloning,Audio,245128,15.8,Victim Report,Russia,Phishing Link,IT Admin,2FA,No
+SC-1110,Banking,CEO Fraud,Video,149782,11.8,Internal Audit,North Korea,Phishing Link,CFO,None,Lawsuit Pending
+SC-1111,Tech,Synthetic ID,Hybrid,256094,12.6,Human Review,Russia,Urgent Wire Request,Customer Support,AI Monitoring,Lawsuit Pending
+SC-1112,Healthcare,Synthetic ID,Audio,90863,18.7,Victim Report,Iran,Phishing Link,IT Admin,AI Monitoring,Yes (Arrest)
+SC-1113,Banking,Fake Video Call,Audio,84170,17.4,Internal Audit,Iran,Fake Credentials,IT Admin,2FA,Yes (Arrest)
+SC-1114,Healthcare,Fake Video Call,Video,89571,3.2,Human Review,North Korea,Urgent Wire Request,HR,2FA,No
+SC-1115,Healthcare,Voice Cloning,Hybrid,365874,21.0,Internal Audit,China,Fake Credentials,Customer Support,AI Monitoring,No
+SC-1116,Government,Synthetic ID,Image,134774,9.0,Victim Report,North Korea,Fake Credentials,CFO,Training,Lawsuit Pending
+SC-1117,Government,Synthetic ID,Audio,467230,8.6,Internal Audit,China,Phishing Link,Customer Support,None,Lawsuit Pending
+SC-1118,Healthcare,CEO Fraud,Audio,58475,23.0,Human Review,Nigeria,Fake Invoice,CFO,AI Monitoring,Lawsuit Pending
+SC-1119,Government,CEO Fraud,Video,482337,6.9,AI Scanner,North Korea,Urgent Wire Request,Customer Support,2FA,No
+SC-1120,Tech,Fake Video Call,Hybrid,401546,7.1,Human Review,China,Fake Credentials,CFO,None,No
+SC-1121,Tech,Fake Video Call,Audio,155761,18.2,Human Review,China,Phishing Link,HR,AI Monitoring,Yes (Arrest)
+SC-1122,Banking,Fake Video Call,Audio,379266,0.7,Human Review,North Korea,Urgent Wire Request,IT Admin,2FA,Yes (Arrest)
+SC-1123,Banking,CEO Fraud,Hybrid,115971,18.1,Internal Audit,Nigeria,Fake Credentials,CFO,Training,No
+SC-1124,Healthcare,Fake Video Call,Hybrid,363169,11.0,Victim Report,Russia,Urgent Wire Request,Customer Support,Training,Yes (Arrest)
+SC-1125,Healthcare,Synthetic ID,Image,88137,16.8,Internal Audit,Russia,Urgent Wire Request,CFO,2FA,Lawsuit Pending
+SC-1126,Government,Fake Video Call,Hybrid,313886,12.4,Victim Report,Russia,Phishing Link,Customer Support,2FA,Lawsuit Pending
+SC-1127,Banking,Voice Cloning,Image,342458,8.4,AI Scanner,North Korea,Fake Credentials,Customer Support,None,Lawsuit Pending
+SC-1128,Tech,CEO Fraud,Image,92376,20.7,Human Review,Russia,Phishing Link,IT Admin,AI Monitoring,Lawsuit Pending
+SC-1129,Tech,CEO Fraud,Image,366835,18.7,AI Scanner,Russia,Fake Credentials,HR,AI Monitoring,No
+SC-1130,Banking,Voice Cloning,Video,366680,21.8,Victim Report,North Korea,Phishing Link,CFO,None,Lawsuit Pending
+SC-1131,Banking,CEO Fraud,Video,468518,1.8,Internal Audit,Russia,Fake Credentials,CFO,None,No
+SC-1132,Healthcare,CEO Fraud,Image,417640,21.7,AI Scanner,Iran,Fake Credentials,CFO,Training,No
+SC-1133,Retail,Voice Cloning,Image,301664,9.0,AI Scanner,North Korea,Urgent Wire Request,HR,2FA,No
+SC-1134,Tech,CEO Fraud,Hybrid,381049,7.0,AI Scanner,North Korea,Fake Invoice,Customer Support,None,No
+SC-1135,Banking,Voice Cloning,Audio,392320,12.1,Human Review,China,Fake Invoice,Customer Support,Training,Lawsuit Pending
+SC-1136,Retail,Synthetic ID,Hybrid,479126,5.0,AI Scanner,Nigeria,Fake Invoice,Customer Support,2FA,Lawsuit Pending
+SC-1137,Banking,Voice Cloning,Video,479877,22.2,Internal Audit,North Korea,Fake Credentials,IT Admin,AI Monitoring,Yes (Arrest)
+SC-1138,Banking,Fake Video Call,Hybrid,292715,4.2,Human Review,China,Phishing Link,HR,None,Yes (Arrest)
+SC-1139,Government,Fake Video Call,Image,350941,22.3,AI Scanner,Russia,Urgent Wire Request,CFO,AI Monitoring,Lawsuit Pending
+SC-1140,Tech,Synthetic ID,Audio,95728,8.7,Victim Report,North Korea,Fake Credentials,CFO,None,No
+SC-1141,Retail,Fake Video Call,Audio,344546,16.8,Victim Report,North Korea,Phishing Link,CFO,None,Lawsuit Pending
+SC-1142,Government,Fake Video Call,Image,180892,16.9,Internal Audit,North Korea,Fake Credentials,Customer Support,AI Monitoring,Yes (Arrest)
+SC-1143,Banking,CEO Fraud,Hybrid,399362,10.5,AI Scanner,Nigeria,Urgent Wire Request,HR,Training,Yes (Arrest)
+SC-1144,Tech,CEO Fraud,Audio,213249,23.3,Internal Audit,North Korea,Fake Invoice,HR,None,No
+SC-1145,Retail,CEO Fraud,Audio,428006,4.8,Human Review,Russia,Fake Invoice,CFO,Training,Lawsuit Pending
+SC-1146,Retail,CEO Fraud,Audio,33972,17.8,Internal Audit,Iran,Phishing Link,HR,2FA,No
+SC-1147,Healthcare,Voice Cloning,Audio,195007,6.9,Human Review,Nigeria,Fake Credentials,HR,AI Monitoring,Yes (Arrest)
+SC-1148,Government,Fake Video Call,Audio,460624,21.0,Internal Audit,North Korea,Fake Credentials,IT Admin,None,Yes (Arrest)
+SC-1149,Government,Synthetic ID,Audio,265476,1.6,Victim Report,Russia,Fake Invoice,HR,None,No
+SC-1150,Banking,Fake Video Call,Image,231671,14.5,Internal Audit,North Korea,Phishing Link,HR,Training,No
+SC-1151,Tech,CEO Fraud,Audio,227294,8.8,Human Review,Iran,Fake Credentials,HR,Training,No
+SC-1152,Healthcare,CEO Fraud,Audio,141962,16.7,AI Scanner,Iran,Fake Invoice,Customer Support,Training,No
+SC-1153,Tech,Fake Video Call,Hybrid,422288,24.0,AI Scanner,Nigeria,Fake Credentials,HR,AI Monitoring,Lawsuit Pending
+SC-1154,Retail,Synthetic ID,Hybrid,63205,3.8,AI Scanner,North Korea,Fake Credentials,IT Admin,None,No
+SC-1155,Retail,Synthetic ID,Hybrid,314039,5.7,Victim Report,Russia,Fake Credentials,Customer Support,Training,No
+SC-1156,Retail,CEO Fraud,Hybrid,15565,22.1,Victim Report,Iran,Urgent Wire Request,IT Admin,2FA,Lawsuit Pending
+SC-1157,Healthcare,Synthetic ID,Video,353091,23.0,Victim Report,Iran,Urgent Wire Request,CFO,None,Lawsuit Pending
+SC-1158,Retail,CEO Fraud,Hybrid,85483,13.9,Human Review,Iran,Fake Invoice,HR,2FA,Yes (Arrest)
+SC-1159,Tech,Synthetic ID,Audio,119255,5.8,Victim Report,China,Urgent Wire Request,CFO,AI Monitoring,Yes (Arrest)
+SC-1160,Retail,CEO Fraud,Image,366921,10.0,Human Review,China,Fake Credentials,IT Admin,None,Yes (Arrest)
+SC-1161,Retail,CEO Fraud,Hybrid,440462,12.0,Human Review,Russia,Fake Credentials,CFO,Training,Yes (Arrest)
+SC-1162,Banking,CEO Fraud,Video,261871,11.2,Victim Report,China,Phishing Link,HR,2FA,Lawsuit Pending
+SC-1163,Retail,Synthetic ID,Audio,50451,2.3,Internal Audit,North Korea,Fake Credentials,CFO,Training,No
+SC-1164,Government,Voice Cloning,Hybrid,324663,5.6,Internal Audit,North Korea,Urgent Wire Request,IT Admin,None,No
+SC-1165,Government,Voice Cloning,Video,451943,19.7,Victim Report,Russia,Phishing Link,CFO,2FA,No
+SC-1166,Healthcare,CEO Fraud,Audio,47206,23.4,Victim Report,Russia,Fake Invoice,CFO,AI Monitoring,Yes (Arrest)
+SC-1167,Banking,Synthetic ID,Audio,289661,12.3,AI Scanner,North Korea,Phishing Link,Customer Support,Training,Lawsuit Pending
+SC-1168,Banking,CEO Fraud,Audio,111825,16.0,Victim Report,China,Urgent Wire Request,HR,None,No
+SC-1169,Healthcare,Synthetic ID,Image,85868,5.3,Victim Report,Iran,Fake Credentials,HR,AI Monitoring,No
+SC-1170,Healthcare,Voice Cloning,Image,281097,23.3,Human Review,Iran,Fake Invoice,HR,Training,No
+SC-1171,Healthcare,CEO Fraud,Image,477979,10.5,Internal Audit,Nigeria,Phishing Link,CFO,AI Monitoring,No
+SC-1172,Healthcare,CEO Fraud,Image,48114,21.5,Internal Audit,Iran,Fake Credentials,HR,2FA,Yes (Arrest)
+SC-1173,Retail,Voice Cloning,Image,158802,6.1,AI Scanner,Iran,Phishing Link,CFO,AI Monitoring,No
+SC-1174,Tech,Voice Cloning,Hybrid,341722,9.8,Internal Audit,North Korea,Fake Credentials,CFO,2FA,Lawsuit Pending
+SC-1175,Tech,Fake Video Call,Video,328558,4.8,AI Scanner,China,Fake Credentials,HR,None,Yes (Arrest)
+SC-1176,Government,CEO Fraud,Hybrid,259656,10.8,Victim Report,Russia,Fake Invoice,IT Admin,AI Monitoring,Yes (Arrest)
+SC-1177,Retail,Fake Video Call,Audio,87370,6.1,Internal Audit,Iran,Phishing Link,CFO,2FA,Lawsuit Pending
+SC-1178,Retail,Voice Cloning,Hybrid,158390,9.8,Human Review,Iran,Fake Credentials,CFO,None,Yes (Arrest)
+SC-1179,Banking,Synthetic ID,Video,324832,10.6,AI Scanner,Iran,Phishing Link,Customer Support,2FA,Yes (Arrest)
+SC-1180,Healthcare,Voice Cloning,Audio,78793,8.7,AI Scanner,Russia,Fake Credentials,IT Admin,Training,Lawsuit Pending
+SC-1181,Government,Voice Cloning,Image,345779,17.9,Internal Audit,Iran,Phishing Link,HR,Training,Yes (Arrest)
+SC-1182,Tech,Fake Video Call,Video,299326,23.2,Internal Audit,China,Fake Invoice,IT Admin,Training,No
+SC-1183,Banking,Fake Video Call,Audio,438034,19.6,Victim Report,Russia,Fake Invoice,CFO,Training,Lawsuit Pending
+SC-1184,Retail,CEO Fraud,Image,51660,3.5,Human Review,China,Fake Invoice,HR,None,No
+SC-1185,Healthcare,CEO Fraud,Audio,205160,16.8,Human Review,China,Urgent Wire Request,Customer Support,2FA,No
+SC-1186,Tech,Voice Cloning,Audio,481108,5.4,Internal Audit,North Korea,Fake Invoice,HR,None,No
+SC-1187,Retail,Synthetic ID,Image,284057,7.5,AI Scanner,Russia,Phishing Link,Customer Support,2FA,Yes (Arrest)
+SC-1188,Tech,CEO Fraud,Hybrid,39269,21.5,Human Review,Nigeria,Urgent Wire Request,CFO,2FA,No
+SC-1189,Tech,Fake Video Call,Hybrid,23251,4.2,Victim Report,North Korea,Fake Invoice,Customer Support,AI Monitoring,No
+SC-1190,Tech,Voice Cloning,Audio,386066,14.1,Internal Audit,Iran,Urgent Wire Request,Customer Support,Training,No
+SC-1191,Healthcare,Fake Video Call,Image,155317,16.1,Victim Report,Nigeria,Phishing Link,CFO,AI Monitoring,No
+SC-1192,Banking,Synthetic ID,Hybrid,33873,5.9,Human Review,Nigeria,Fake Credentials,HR,2FA,Yes (Arrest)
+SC-1193,Tech,CEO Fraud,Audio,480740,8.9,Human Review,Iran,Fake Invoice,CFO,AI Monitoring,No
+SC-1194,Retail,Fake Video Call,Image,107377,10.5,Human Review,North Korea,Fake Invoice,CFO,AI Monitoring,Yes (Arrest)
+SC-1195,Banking,Fake Video Call,Hybrid,213586,9.8,Victim Report,Iran,Urgent Wire Request,CFO,AI Monitoring,Yes (Arrest)
+SC-1196,Healthcare,Voice Cloning,Hybrid,190089,2.7,AI Scanner,Russia,Fake Invoice,HR,AI Monitoring,Lawsuit Pending
+SC-1197,Tech,Synthetic ID,Video,343818,1.3,Victim Report,North Korea,Fake Credentials,HR,None,Yes (Arrest)
+SC-1198,Healthcare,CEO Fraud,Image,479074,19.0,Human Review,China,Fake Credentials,Customer Support,None,No
+SC-1199,Retail,Voice Cloning,Video,236488,8.1,Human Review,Nigeria,Fake Credentials,HR,Training,Yes (Arrest)
+SC-1200,Government,Fake Video Call,Image,372099,1.2,Victim Report,Nigeria,Fake Credentials,HR,Training,Yes (Arrest)
+SC-1201,Government,CEO Fraud,Video,244258,21.5,Internal Audit,North Korea,Fake Invoice,IT Admin,2FA,Lawsuit Pending
+SC-1202,Retail,Voice Cloning,Image,413133,4.2,Human Review,China,Phishing Link,CFO,Training,Lawsuit Pending
+SC-1203,Healthcare,CEO Fraud,Audio,355569,3.1,Victim Report,North Korea,Phishing Link,IT Admin,AI Monitoring,Yes (Arrest)
+SC-1204,Banking,Voice Cloning,Audio,328390,8.2,Internal Audit,North Korea,Fake Invoice,CFO,Training,No
+SC-1205,Banking,Fake Video Call,Audio,134350,3.3,Victim Report,Iran,Urgent Wire Request,IT Admin,Training,Yes (Arrest)
+SC-1206,Government,Voice Cloning,Hybrid,217970,6.4,Internal Audit,China,Urgent Wire Request,HR,Training,No
+SC-1207,Tech,CEO Fraud,Hybrid,22708,3.6,Human Review,Russia,Fake Credentials,HR,None,Lawsuit Pending
+SC-1208,Banking,Voice Cloning,Hybrid,391972,11.9,Victim Report,Russia,Fake Invoice,HR,AI Monitoring,No
+SC-1209,Government,Voice Cloning,Video,78733,6.6,Human Review,China,Urgent Wire Request,CFO,AI Monitoring,Yes (Arrest)
+SC-1210,Government,Fake Video Call,Audio,198060,15.0,Internal Audit,Iran,Urgent Wire Request,Customer Support,2FA,Yes (Arrest)
+SC-1211,Government,Fake Video Call,Video,331441,15.9,Human Review,Iran,Urgent Wire Request,HR,AI Monitoring,No
+SC-1212,Government,Fake Video Call,Video,251058,21.7,Human Review,Iran,Phishing Link,Customer Support,AI Monitoring,No
+SC-1213,Tech,Synthetic ID,Video,447251,5.0,AI Scanner,China,Urgent Wire Request,Customer Support,None,Lawsuit Pending
+SC-1214,Retail,CEO Fraud,Audio,490712,9.1,AI Scanner,North Korea,Fake Credentials,CFO,None,Yes (Arrest)
+SC-1215,Banking,Synthetic ID,Image,9152,17.4,Internal Audit,Nigeria,Urgent Wire Request,Customer Support,AI Monitoring,Yes (Arrest)
+SC-1216,Tech,Synthetic ID,Video,464066,0.8,Human Review,China,Phishing Link,Customer Support,Training,Lawsuit Pending
+SC-1217,Government,Voice Cloning,Video,191872,4.8,Human Review,Russia,Phishing Link,CFO,2FA,Lawsuit Pending
+SC-1218,Healthcare,Synthetic ID,Video,196800,9.3,Victim Report,Russia,Fake Credentials,HR,Training,Yes (Arrest)
+SC-1219,Banking,Synthetic ID,Image,55150,11.5,Human Review,Nigeria,Fake Credentials,IT Admin,2FA,Yes (Arrest)
+SC-1220,Retail,Voice Cloning,Hybrid,166252,16.5,Human Review,Iran,Urgent Wire Request,HR,AI Monitoring,No
+SC-1221,Healthcare,Voice Cloning,Audio,328136,11.6,Victim Report,North Korea,Fake Credentials,Customer Support,AI Monitoring,No
+SC-1222,Tech,CEO Fraud,Audio,25183,23.3,AI Scanner,China,Urgent Wire Request,Customer Support,Training,Yes (Arrest)
+SC-1223,Healthcare,Synthetic ID,Hybrid,432337,2.7,Human Review,Iran,Urgent Wire Request,HR,AI Monitoring,Lawsuit Pending
+SC-1224,Government,Voice Cloning,Hybrid,89461,22.6,Human Review,North Korea,Fake Invoice,CFO,None,Yes (Arrest)
+SC-1225,Healthcare,Fake Video Call,Image,348434,3.4,Human Review,Russia,Urgent Wire Request,Customer Support,AI Monitoring,Yes (Arrest)
+SC-1226,Tech,Fake Video Call,Image,471916,23.3,AI Scanner,North Korea,Phishing Link,CFO,2FA,No
+SC-1227,Healthcare,Voice Cloning,Audio,118719,22.8,Internal Audit,Russia,Urgent Wire Request,Customer Support,Training,Yes (Arrest)
+SC-1228,Banking,Synthetic ID,Audio,456398,8.7,Human Review,Nigeria,Urgent Wire Request,CFO,Training,No
+SC-1229,Retail,Fake Video Call,Hybrid,59880,14.0,Human Review,North Korea,Fake Invoice,IT Admin,AI Monitoring,Lawsuit Pending
+SC-1230,Healthcare,Fake Video Call,Video,201039,3.5,Human Review,Nigeria,Phishing Link,HR,2FA,No
+SC-1231,Retail,Fake Video Call,Hybrid,382204,10.8,AI Scanner,Nigeria,Phishing Link,HR,2FA,No
+SC-1232,Banking,Fake Video Call,Image,345724,20.8,Internal Audit,North Korea,Fake Invoice,CFO,2FA,No
+SC-1233,Retail,Voice Cloning,Video,231172,17.2,AI Scanner,Russia,Fake Credentials,CFO,None,Yes (Arrest)
+SC-1234,Banking,Synthetic ID,Audio,294802,4.9,AI Scanner,Iran,Fake Credentials,IT Admin,AI Monitoring,Lawsuit Pending
+SC-1235,Healthcare,Voice Cloning,Video,460216,22.1,AI Scanner,North Korea,Urgent Wire Request,Customer Support,AI Monitoring,No
+SC-1236,Government,Fake Video Call,Image,104505,18.6,Internal Audit,China,Fake Invoice,CFO,2FA,No
+SC-1237,Healthcare,Synthetic ID,Image,333055,9.8,Human Review,North Korea,Fake Invoice,Customer Support,Training,Yes (Arrest)
+SC-1238,Retail,Voice Cloning,Audio,383689,17.8,AI Scanner,North Korea,Urgent Wire Request,Customer Support,2FA,No
+SC-1239,Government,Voice Cloning,Video,470294,13.6,Internal Audit,Nigeria,Phishing Link,IT Admin,None,No
+SC-1240,Retail,Voice Cloning,Image,323134,16.6,Human Review,China,Urgent Wire Request,HR,2FA,Yes (Arrest)
+SC-1241,Government,Fake Video Call,Video,169686,13.7,Internal Audit,Nigeria,Fake Invoice,IT Admin,AI Monitoring,Lawsuit Pending
+SC-1242,Banking,CEO Fraud,Hybrid,308959,18.7,Victim Report,Iran,Urgent Wire Request,IT Admin,AI Monitoring,Lawsuit Pending
+SC-1243,Tech,Voice Cloning,Video,142935,2.7,Victim Report,China,Urgent Wire Request,HR,2FA,No
+SC-1244,Government,Voice Cloning,Audio,126384,18.0,AI Scanner,North Korea,Fake Invoice,IT Admin,Training,Yes (Arrest)
+SC-1245,Banking,Voice Cloning,Image,375140,6.1,Victim Report,North Korea,Fake Invoice,Customer Support,None,Lawsuit Pending
+SC-1246,Tech,Voice Cloning,Image,384185,18.4,AI Scanner,North Korea,Urgent Wire Request,HR,AI Monitoring,Yes (Arrest)
+SC-1247,Retail,Voice Cloning,Video,103126,12.1,Internal Audit,Iran,Urgent Wire Request,HR,AI Monitoring,No
+SC-1248,Government,CEO Fraud,Hybrid,128865,1.0,Internal Audit,North Korea,Urgent Wire Request,HR,2FA,Yes (Arrest)
+SC-1249,Tech,Fake Video Call,Video,255666,2.4,Human Review,Russia,Fake Credentials,CFO,None,Yes (Arrest)
+SC-1250,Tech,Fake Video Call,Image,203857,3.9,Human Review,North Korea,Fake Credentials,Customer Support,2FA,No
+SC-1251,Banking,Synthetic ID,Hybrid,203129,19.3,AI Scanner,China,Fake Credentials,IT Admin,Training,Yes (Arrest)
+SC-1252,Government,Synthetic ID,Hybrid,198610,13.0,Victim Report,Nigeria,Phishing Link,IT Admin,None,Lawsuit Pending
+SC-1253,Government,Synthetic ID,Audio,266091,4.1,Victim Report,Iran,Fake Credentials,HR,Training,No
+SC-1254,Government,Voice Cloning,Video,29276,14.4,AI Scanner,North Korea,Fake Credentials,Customer Support,None,Yes (Arrest)
+SC-1255,Government,Voice Cloning,Video,220646,3.1,AI Scanner,China,Fake Credentials,IT Admin,AI Monitoring,Lawsuit Pending
+SC-1256,Retail,Fake Video Call,Video,416205,16.4,Human Review,North Korea,Phishing Link,CFO,AI Monitoring,No
+SC-1257,Healthcare,Synthetic ID,Hybrid,344463,4.1,AI Scanner,Russia,Phishing Link,HR,None,Yes (Arrest)
+SC-1258,Healthcare,CEO Fraud,Image,52680,18.1,Victim Report,Russia,Phishing Link,CFO,Training,Lawsuit Pending
+SC-1259,Tech,CEO Fraud,Hybrid,235888,2.5,Victim Report,Russia,Urgent Wire Request,HR,AI Monitoring,No
+SC-1260,Healthcare,Voice Cloning,Hybrid,20830,6.5,Victim Report,North Korea,Urgent Wire Request,HR,Training,No
+SC-1261,Banking,CEO Fraud,Hybrid,149047,4.5,Victim Report,China,Fake Invoice,CFO,AI Monitoring,Lawsuit Pending
+SC-1262,Banking,Voice Cloning,Video,482211,4.8,Victim Report,Nigeria,Fake Credentials,IT Admin,2FA,No
+SC-1263,Banking,Fake Video Call,Video,454292,15.2,AI Scanner,Russia,Urgent Wire Request,IT Admin,2FA,No
+SC-1264,Banking,Fake Video Call,Audio,338550,14.7,Human Review,China,Urgent Wire Request,HR,2FA,No
+SC-1265,Tech,Synthetic ID,Audio,254259,1.1,Human Review,Russia,Fake Credentials,Customer Support,None,No
+SC-1266,Banking,Synthetic ID,Video,126793,15.5,Internal Audit,China,Fake Invoice,CFO,None,No
+SC-1267,Tech,CEO Fraud,Hybrid,446059,9.1,Internal Audit,North Korea,Fake Invoice,CFO,2FA,Lawsuit Pending
+SC-1268,Healthcare,Fake Video Call,Hybrid,19222,20.9,Victim Report,Iran,Fake Invoice,IT Admin,None,Lawsuit Pending
+SC-1269,Banking,Fake Video Call,Hybrid,138387,12.2,Human Review,North Korea,Fake Credentials,Customer Support,Training,Yes (Arrest)
+SC-1270,Healthcare,Fake Video Call,Video,84629,18.1,Victim Report,Iran,Phishing Link,HR,2FA,Yes (Arrest)
+SC-1271,Healthcare,Synthetic ID,Audio,200405,0.3,Internal Audit,Iran,Urgent Wire Request,Customer Support,None,Lawsuit Pending
+SC-1272,Tech,CEO Fraud,Video,15009,18.3,Victim Report,Iran,Fake Invoice,CFO,AI Monitoring,No
+SC-1273,Retail,Synthetic ID,Image,210390,5.1,AI Scanner,Iran,Urgent Wire Request,CFO,Training,Yes (Arrest)
+SC-1274,Banking,Fake Video Call,Hybrid,323660,11.6,Internal Audit,China,Fake Invoice,Customer Support,None,No
+SC-1275,Banking,Synthetic ID,Hybrid,421409,2.8,Internal Audit,North Korea,Urgent Wire Request,Customer Support,None,Yes (Arrest)
+SC-1276,Healthcare,Voice Cloning,Image,28933,7.5,Human Review,China,Fake Invoice,IT Admin,2FA,Lawsuit Pending
+SC-1277,Retail,CEO Fraud,Hybrid,358529,11.5,AI Scanner,Russia,Fake Invoice,Customer Support,2FA,Yes (Arrest)
+SC-1278,Banking,Voice Cloning,Image,58315,18.1,Victim Report,Iran,Urgent Wire Request,CFO,Training,No
+SC-1279,Healthcare,CEO Fraud,Hybrid,368168,4.7,Human Review,Nigeria,Urgent Wire Request,Customer Support,2FA,Yes (Arrest)
+SC-1280,Tech,Fake Video Call,Video,167493,13.0,Victim Report,China,Fake Invoice,Customer Support,AI Monitoring,Yes (Arrest)
+SC-1281,Healthcare,Voice Cloning,Hybrid,354987,4.3,Human Review,Russia,Fake Invoice,CFO,None,No
+SC-1282,Government,Voice Cloning,Image,120052,11.2,Victim Report,Iran,Phishing Link,IT Admin,None,Yes (Arrest)
+SC-1283,Tech,Fake Video Call,Image,443593,12.2,Victim Report,China,Fake Invoice,IT Admin,Training,No
+SC-1284,Tech,CEO Fraud,Audio,407407,16.6,AI Scanner,Nigeria,Fake Invoice,IT Admin,None,No
+SC-1285,Healthcare,Fake Video Call,Image,143949,2.1,Internal Audit,Russia,Phishing Link,IT Admin,Training,Lawsuit Pending
+SC-1286,Retail,CEO Fraud,Video,239518,2.8,Human Review,China,Fake Invoice,HR,Training,Yes (Arrest)
+SC-1287,Tech,CEO Fraud,Image,401187,5.5,Human Review,Nigeria,Urgent Wire Request,CFO,AI Monitoring,Yes (Arrest)
+SC-1288,Retail,CEO Fraud,Audio,114726,0.2,Internal Audit,North Korea,Fake Credentials,Customer Support,Training,Yes (Arrest)
+SC-1289,Retail,Synthetic ID,Hybrid,389160,12.9,Human Review,Russia,Phishing Link,CFO,AI Monitoring,Yes (Arrest)
+SC-1290,Healthcare,Synthetic ID,Video,11090,11.4,Human Review,Russia,Urgent Wire Request,Customer Support,None,No
+SC-1291,Banking,Voice Cloning,Image,187228,16.4,Internal Audit,Iran,Phishing Link,HR,AI Monitoring,Lawsuit Pending
+SC-1292,Banking,Fake Video Call,Audio,448109,3.6,Human Review,North Korea,Fake Invoice,IT Admin,Training,Yes (Arrest)
+SC-1293,Healthcare,CEO Fraud,Hybrid,499084,9.2,Internal Audit,Russia,Urgent Wire Request,CFO,Training,No
+SC-1294,Healthcare,CEO Fraud,Video,20742,7.0,AI Scanner,Nigeria,Fake Invoice,HR,2FA,Lawsuit Pending
+SC-1295,Banking,Synthetic ID,Hybrid,459475,2.1,AI Scanner,North Korea,Fake Invoice,Customer Support,None,Lawsuit Pending
+SC-1296,Retail,Synthetic ID,Hybrid,474512,10.3,AI Scanner,Nigeria,Urgent Wire Request,CFO,Training,Lawsuit Pending
+SC-1297,Government,Fake Video Call,Audio,382566,6.7,Internal Audit,North Korea,Urgent Wire Request,IT Admin,None,Yes (Arrest)
+SC-1298,Retail,Synthetic ID,Image,495868,18.0,AI Scanner,Nigeria,Fake Credentials,CFO,Training,Lawsuit Pending
+SC-1299,Healthcare,Fake Video Call,Hybrid,29705,22.4,Internal Audit,Nigeria,Fake Invoice,Customer Support,AI Monitoring,Yes (Arrest)
+SC-1300,Retail,Synthetic ID,Image,192024,6.4,Human Review,Nigeria,Urgent Wire Request,CFO,Training,No
+SC-1301,Banking,Synthetic ID,Hybrid,228186,1.7,Human Review,Iran,Phishing Link,CFO,None,Lawsuit Pending
+SC-1302,Tech,CEO Fraud,Image,227783,20.3,AI Scanner,China,Fake Credentials,HR,2FA,No
+SC-1303,Government,Fake Video Call,Image,345513,22.7,Internal Audit,China,Urgent Wire Request,Customer Support,None,Lawsuit Pending
+SC-1304,Retail,Synthetic ID,Image,355786,13.6,Victim Report,Nigeria,Fake Credentials,IT Admin,Training,No
+SC-1305,Banking,Synthetic ID,Hybrid,425025,9.6,AI Scanner,North Korea,Fake Credentials,CFO,2FA,Lawsuit Pending
+SC-1306,Government,CEO Fraud,Audio,492088,5.8,AI Scanner,China,Fake Credentials,Customer Support,2FA,No
+SC-1307,Government,CEO Fraud,Hybrid,261639,6.8,Human Review,Russia,Phishing Link,Customer Support,None,Lawsuit Pending
+SC-1308,Healthcare,Voice Cloning,Audio,449562,21.5,Victim Report,North Korea,Phishing Link,HR,2FA,Yes (Arrest)
+SC-1309,Government,Fake Video Call,Hybrid,241506,19.0,Victim Report,Iran,Fake Credentials,IT Admin,AI Monitoring,No
+SC-1310,Tech,Voice Cloning,Hybrid,289641,17.6,Human Review,Iran,Phishing Link,CFO,2FA,Yes (Arrest)
+SC-1311,Retail,Fake Video Call,Image,397258,7.1,Victim Report,China,Fake Invoice,Customer Support,AI Monitoring,Yes (Arrest)
+SC-1312,Healthcare,Synthetic ID,Video,405579,6.3,Victim Report,Nigeria,Urgent Wire Request,Customer Support,2FA,Yes (Arrest)
+SC-1313,Banking,Synthetic ID,Hybrid,93307,2.8,AI Scanner,North Korea,Fake Credentials,IT Admin,Training,No
+SC-1314,Retail,Fake Video Call,Image,458152,14.3,Victim Report,Russia,Phishing Link,Customer Support,None,Yes (Arrest)
+SC-1315,Government,Fake Video Call,Audio,268537,16.4,Internal Audit,China,Fake Credentials,HR,Training,No
+SC-1316,Retail,CEO Fraud,Audio,100668,20.2,Victim Report,North Korea,Urgent Wire Request,HR,AI Monitoring,No
+SC-1317,Retail,Synthetic ID,Video,263908,14.2,Victim Report,China,Fake Invoice,Customer Support,Training,No
+SC-1318,Retail,CEO Fraud,Audio,132974,10.1,AI Scanner,Russia,Fake Invoice,HR,AI Monitoring,No
+SC-1319,Banking,CEO Fraud,Image,471777,15.6,Victim Report,North Korea,Phishing Link,IT Admin,AI Monitoring,Yes (Arrest)
+SC-1320,Banking,Fake Video Call,Image,157042,23.5,AI Scanner,Russia,Urgent Wire Request,IT Admin,None,No
+SC-1321,Tech,CEO Fraud,Hybrid,439173,12.9,Human Review,China,Urgent Wire Request,CFO,2FA,Yes (Arrest)
+SC-1322,Government,Synthetic ID,Video,434997,17.7,Victim Report,China,Fake Credentials,CFO,Training,Yes (Arrest)
+SC-1323,Tech,CEO Fraud,Image,138714,16.8,Victim Report,North Korea,Phishing Link,IT Admin,None,Yes (Arrest)
+SC-1324,Healthcare,Fake Video Call,Audio,439024,21.1,Human Review,Nigeria,Phishing Link,IT Admin,2FA,Lawsuit Pending
+SC-1325,Government,Synthetic ID,Image,309925,20.6,AI Scanner,Iran,Phishing Link,HR,2FA,Yes (Arrest)
+SC-1326,Retail,Voice Cloning,Audio,379640,10.2,Victim Report,North Korea,Phishing Link,CFO,AI Monitoring,Yes (Arrest)
+SC-1327,Healthcare,Voice Cloning,Audio,10279,12.1,Human Review,Iran,Urgent Wire Request,IT Admin,Training,Yes (Arrest)
+SC-1328,Government,CEO Fraud,Audio,339273,2.1,Internal Audit,Nigeria,Urgent Wire Request,Customer Support,2FA,No
+SC-1329,Healthcare,Voice Cloning,Image,112387,21.8,Human Review,Russia,Phishing Link,CFO,2FA,No
+SC-1330,Retail,CEO Fraud,Hybrid,104080,10.3,Victim Report,China,Fake Invoice,HR,AI Monitoring,No
+SC-1331,Banking,Synthetic ID,Video,397088,0.1,Human Review,Nigeria,Fake Credentials,IT Admin,AI Monitoring,Lawsuit Pending
+SC-1332,Banking,Fake Video Call,Video,213091,16.5,Victim Report,Russia,Fake Invoice,Customer Support,2FA,Lawsuit Pending
+SC-1333,Tech,Synthetic ID,Image,101381,20.8,Human Review,China,Phishing Link,CFO,2FA,Yes (Arrest)
+SC-1334,Retail,Synthetic ID,Hybrid,86047,7.4,Human Review,Russia,Phishing Link,Customer Support,AI Monitoring,Lawsuit Pending
+SC-1335,Banking,Synthetic ID,Audio,327302,6.2,Human Review,Nigeria,Fake Credentials,CFO,None,No
+SC-1336,Healthcare,CEO Fraud,Image,468320,20.4,Victim Report,Russia,Fake Credentials,IT Admin,Training,Lawsuit Pending
+SC-1337,Tech,Fake Video Call,Hybrid,370427,3.8,AI Scanner,Iran,Phishing Link,HR,AI Monitoring,Lawsuit Pending
+SC-1338,Banking,Synthetic ID,Audio,323481,0.5,Victim Report,China,Phishing Link,HR,AI Monitoring,No
+SC-1339,Tech,Synthetic ID,Image,185594,19.8,Internal Audit,Nigeria,Fake Credentials,IT Admin,Training,Yes (Arrest)
+SC-1340,Banking,CEO Fraud,Hybrid,3325,22.2,Internal Audit,Iran,Fake Invoice,IT Admin,2FA,Yes (Arrest)
+SC-1341,Government,Voice Cloning,Hybrid,267635,18.9,Human Review,China,Fake Credentials,CFO,None,Yes (Arrest)
+SC-1342,Government,Fake Video Call,Image,93657,15.6,Human Review,North Korea,Fake Invoice,HR,2FA,Lawsuit Pending
+SC-1343,Tech,Fake Video Call,Video,67716,14.8,AI Scanner,North Korea,Urgent Wire Request,CFO,Training,Yes (Arrest)
+SC-1344,Retail,CEO Fraud,Video,115808,6.5,Victim Report,Russia,Fake Invoice,HR,None,Lawsuit Pending
+SC-1345,Retail,Synthetic ID,Image,9523,7.8,Internal Audit,Nigeria,Urgent Wire Request,CFO,Training,Yes (Arrest)
+SC-1346,Retail,Voice Cloning,Video,403551,8.5,Human Review,Iran,Phishing Link,CFO,2FA,Lawsuit Pending
+SC-1347,Retail,Fake Video Call,Hybrid,96682,0.3,Victim Report,China,Fake Invoice,IT Admin,2FA,No
+SC-1348,Tech,Synthetic ID,Audio,463585,23.4,Internal Audit,China,Fake Invoice,HR,None,Yes (Arrest)
+SC-1349,Government,Voice Cloning,Image,235791,21.4,AI Scanner,Nigeria,Fake Credentials,Customer Support,AI Monitoring,Lawsuit Pending
+SC-1350,Retail,Voice Cloning,Image,26601,21.3,Internal Audit,Russia,Phishing Link,HR,Training,Lawsuit Pending
+SC-1351,Banking,Synthetic ID,Video,325968,17.5,Victim Report,Nigeria,Urgent Wire Request,IT Admin,None,No
+SC-1352,Banking,CEO Fraud,Video,369428,21.8,AI Scanner,Nigeria,Fake Invoice,HR,2FA,Lawsuit Pending
+SC-1353,Government,Synthetic ID,Audio,241238,5.0,AI Scanner,Iran,Urgent Wire Request,Customer Support,Training,Yes (Arrest)
+SC-1354,Government,CEO Fraud,Hybrid,59639,9.0,Human Review,China,Phishing Link,CFO,2FA,Yes (Arrest)
+SC-1355,Healthcare,CEO Fraud,Hybrid,52906,7.4,Human Review,Iran,Phishing Link,Customer Support,None,Yes (Arrest)
+SC-1356,Tech,Voice Cloning,Audio,482383,6.2,AI Scanner,Iran,Phishing Link,Customer Support,AI Monitoring,Yes (Arrest)
+SC-1357,Retail,Voice Cloning,Audio,497370,6.8,Victim Report,Russia,Fake Invoice,HR,2FA,Lawsuit Pending
+SC-1358,Healthcare,Fake Video Call,Audio,30652,20.7,AI Scanner,Russia,Phishing Link,CFO,Training,Yes (Arrest)
+SC-1359,Banking,Synthetic ID,Audio,194939,19.2,Internal Audit,North Korea,Phishing Link,CFO,None,Yes (Arrest)
+SC-1360,Retail,Fake Video Call,Audio,238838,17.4,Victim Report,China,Fake Credentials,Customer Support,None,Lawsuit Pending
+SC-1361,Government,Voice Cloning,Audio,121496,19.4,Victim Report,Russia,Fake Credentials,IT Admin,None,No
+SC-1362,Tech,CEO Fraud,Hybrid,462045,10.2,AI Scanner,Nigeria,Urgent Wire Request,IT Admin,Training,Yes (Arrest)
+SC-1363,Banking,CEO Fraud,Hybrid,438427,22.6,Internal Audit,China,Urgent Wire Request,Customer Support,None,Yes (Arrest)
+SC-1364,Banking,Fake Video Call,Video,468265,20.7,Internal Audit,Russia,Fake Credentials,Customer Support,Training,No
+SC-1365,Government,Synthetic ID,Image,270414,16.0,Human Review,China,Fake Credentials,CFO,Training,Lawsuit Pending
+SC-1366,Banking,CEO Fraud,Image,408187,21.6,Victim Report,Russia,Phishing Link,IT Admin,AI Monitoring,Lawsuit Pending
+SC-1367,Healthcare,Voice Cloning,Hybrid,174862,12.0,Human Review,China,Urgent Wire Request,IT Admin,Training,No
+SC-1368,Tech,Fake Video Call,Hybrid,29272,2.4,Internal Audit,Iran,Fake Invoice,IT Admin,AI Monitoring,Yes (Arrest)
+SC-1369,Retail,Voice Cloning,Audio,251103,10.8,Human Review,China,Phishing Link,CFO,Training,No
+SC-1370,Tech,Synthetic ID,Audio,435964,23.9,Human Review,Iran,Phishing Link,Customer Support,2FA,No
+SC-1371,Healthcare,CEO Fraud,Audio,316552,3.7,Human Review,Russia,Fake Invoice,HR,2FA,Lawsuit Pending
+SC-1372,Retail,Fake Video Call,Video,52152,21.5,Internal Audit,China,Fake Credentials,IT Admin,Training,Yes (Arrest)
+SC-1373,Banking,Fake Video Call,Hybrid,470210,3.5,Human Review,China,Urgent Wire Request,Customer Support,Training,Lawsuit Pending
+SC-1374,Healthcare,Voice Cloning,Audio,203324,20.9,AI Scanner,North Korea,Fake Invoice,IT Admin,Training,Lawsuit Pending
+SC-1375,Tech,Fake Video Call,Video,381552,13.7,Human Review,Iran,Fake Invoice,CFO,None,Yes (Arrest)
+SC-1376,Banking,Synthetic ID,Audio,168074,16.3,Internal Audit,China,Fake Credentials,IT Admin,AI Monitoring,No
+SC-1377,Retail,Voice Cloning,Image,426619,6.9,Human Review,Iran,Urgent Wire Request,CFO,AI Monitoring,Lawsuit Pending
+SC-1378,Banking,Synthetic ID,Audio,232755,22.8,Human Review,China,Fake Credentials,IT Admin,Training,Yes (Arrest)
+SC-1379,Tech,Synthetic ID,Video,103841,12.8,Victim Report,China,Fake Invoice,HR,None,Yes (Arrest)
+SC-1380,Healthcare,Fake Video Call,Audio,271588,23.0,Human Review,North Korea,Urgent Wire Request,CFO,None,No
+SC-1381,Retail,Synthetic ID,Video,247833,6.1,AI Scanner,North Korea,Fake Credentials,CFO,Training,Lawsuit Pending
+SC-1382,Healthcare,Fake Video Call,Video,241262,9.9,Human Review,China,Fake Invoice,HR,None,Lawsuit Pending
+SC-1383,Healthcare,Fake Video Call,Video,277641,15.5,AI Scanner,North Korea,Urgent Wire Request,CFO,None,No
+SC-1384,Healthcare,Synthetic ID,Hybrid,358832,13.3,Internal Audit,Iran,Phishing Link,HR,Training,Yes (Arrest)
+SC-1385,Banking,Voice Cloning,Image,416993,19.9,Internal Audit,North Korea,Urgent Wire Request,Customer Support,2FA,No
+SC-1386,Banking,Voice Cloning,Video,203613,11.0,Victim Report,North Korea,Urgent Wire Request,HR,Training,No
+SC-1387,Healthcare,CEO Fraud,Audio,314713,0.4,Internal Audit,Russia,Phishing Link,CFO,2FA,Yes (Arrest)
+SC-1388,Retail,Voice Cloning,Audio,494466,7.7,Victim Report,Russia,Phishing Link,Customer Support,AI Monitoring,Lawsuit Pending
+SC-1389,Retail,CEO Fraud,Video,170306,22.3,Human Review,Russia,Fake Credentials,HR,None,No
+SC-1390,Government,Voice Cloning,Audio,186753,9.8,Human Review,North Korea,Urgent Wire Request,IT Admin,AI Monitoring,Yes (Arrest)
+SC-1391,Retail,Voice Cloning,Video,236838,18.1,Human Review,Russia,Fake Credentials,HR,None,Yes (Arrest)
+SC-1392,Retail,Synthetic ID,Video,454935,3.4,Victim Report,Nigeria,Fake Credentials,Customer Support,Training,Lawsuit Pending
+SC-1393,Retail,Fake Video Call,Hybrid,399122,3.4,AI Scanner,Nigeria,Phishing Link,CFO,2FA,Lawsuit Pending
+SC-1394,Banking,Fake Video Call,Video,124499,10.8,Internal Audit,North Korea,Phishing Link,IT Admin,None,No
+SC-1395,Government,Synthetic ID,Video,189362,23.4,Victim Report,Iran,Fake Credentials,HR,None,Lawsuit Pending
+SC-1396,Government,CEO Fraud,Hybrid,146219,14.6,AI Scanner,Nigeria,Phishing Link,Customer Support,Training,Lawsuit Pending
+SC-1397,Healthcare,CEO Fraud,Hybrid,284987,21.1,Victim Report,China,Fake Credentials,HR,None,Lawsuit Pending
+SC-1398,Retail,CEO Fraud,Audio,369652,4.6,AI Scanner,China,Phishing Link,HR,2FA,Yes (Arrest)
+SC-1399,Tech,Voice Cloning,Image,50214,7.4,Victim Report,North Korea,Phishing Link,CFO,Training,Lawsuit Pending
+SC-1400,Banking,Synthetic ID,Audio,374126,14.1,Internal Audit,Nigeria,Fake Credentials,Customer Support,Training,Yes (Arrest)
+SC-1401,Banking,Fake Video Call,Audio,250835,0.4,Internal Audit,China,Urgent Wire Request,HR,None,Yes (Arrest)
+SC-1402,Banking,Voice Cloning,Image,19398,23.4,AI Scanner,Russia,Fake Credentials,Customer Support,2FA,Yes (Arrest)
+SC-1403,Healthcare,Voice Cloning,Hybrid,96393,20.4,AI Scanner,China,Fake Credentials,Customer Support,Training,Yes (Arrest)
+SC-1404,Retail,Synthetic ID,Image,172338,15.8,Victim Report,China,Phishing Link,Customer Support,None,Lawsuit Pending
+SC-1405,Healthcare,CEO Fraud,Image,292329,6.9,Victim Report,Nigeria,Urgent Wire Request,HR,Training,Yes (Arrest)
+SC-1406,Government,Synthetic ID,Video,72357,2.8,Victim Report,Russia,Fake Credentials,Customer Support,2FA,Lawsuit Pending
+SC-1407,Healthcare,CEO Fraud,Audio,360876,21.5,AI Scanner,China,Fake Invoice,CFO,2FA,No
+SC-1408,Banking,Voice Cloning,Image,479208,5.8,Internal Audit,Iran,Urgent Wire Request,IT Admin,2FA,No
+SC-1409,Government,Voice Cloning,Audio,219792,15.0,Internal Audit,China,Phishing Link,HR,None,Yes (Arrest)
+SC-1410,Healthcare,Voice Cloning,Hybrid,267884,13.1,Victim Report,Russia,Fake Credentials,Customer Support,AI Monitoring,Lawsuit Pending
+SC-1411,Government,Voice Cloning,Audio,299724,19.1,AI Scanner,Iran,Urgent Wire Request,Customer Support,2FA,Yes (Arrest)
+SC-1412,Government,Synthetic ID,Image,200405,17.6,Human Review,Nigeria,Urgent Wire Request,IT Admin,None,Yes (Arrest)
+SC-1413,Government,Synthetic ID,Image,117688,17.2,AI Scanner,Iran,Fake Credentials,HR,2FA,No
+SC-1414,Banking,Fake Video Call,Audio,362368,1.3,AI Scanner,Russia,Phishing Link,HR,Training,Lawsuit Pending
+SC-1415,Tech,Fake Video Call,Image,155572,10.7,Internal Audit,Iran,Fake Credentials,CFO,None,Lawsuit Pending
+SC-1416,Government,CEO Fraud,Audio,96360,11.3,Victim Report,Nigeria,Fake Credentials,HR,AI Monitoring,Lawsuit Pending
+SC-1417,Banking,CEO Fraud,Hybrid,419690,13.2,Human Review,China,Fake Invoice,CFO,Training,Yes (Arrest)
+SC-1418,Tech,Synthetic ID,Video,110379,23.1,Victim Report,North Korea,Fake Invoice,CFO,Training,Yes (Arrest)
+SC-1419,Government,Voice Cloning,Audio,456763,11.2,Internal Audit,Nigeria,Fake Invoice,IT Admin,2FA,Yes (Arrest)
+SC-1420,Retail,Voice Cloning,Image,116718,22.3,Internal Audit,China,Fake Credentials,IT Admin,2FA,Yes (Arrest)
+SC-1421,Healthcare,Voice Cloning,Video,92065,4.2,Internal Audit,China,Fake Invoice,IT Admin,None,No
+SC-1422,Government,Fake Video Call,Hybrid,52137,10.5,Victim Report,Iran,Phishing Link,HR,None,Lawsuit Pending
+SC-1423,Retail,Fake Video Call,Image,38438,17.3,AI Scanner,Russia,Phishing Link,CFO,None,Lawsuit Pending
+SC-1424,Tech,Voice Cloning,Image,343003,23.1,Human Review,Nigeria,Urgent Wire Request,IT Admin,AI Monitoring,Lawsuit Pending
+SC-1425,Healthcare,Fake Video Call,Video,214116,6.5,AI Scanner,Iran,Phishing Link,IT Admin,Training,Yes (Arrest)
+SC-1426,Government,Synthetic ID,Video,279119,1.2,Victim Report,North Korea,Urgent Wire Request,Customer Support,2FA,Yes (Arrest)
+SC-1427,Government,Fake Video Call,Image,19097,15.0,Victim Report,Russia,Phishing Link,IT Admin,AI Monitoring,Lawsuit Pending
+SC-1428,Retail,Fake Video Call,Audio,236589,10.6,Victim Report,China,Phishing Link,Customer Support,Training,Lawsuit Pending
+SC-1429,Retail,Voice Cloning,Video,237321,6.8,Internal Audit,Iran,Fake Invoice,Customer Support,2FA,Yes (Arrest)
+SC-1430,Healthcare,Fake Video Call,Image,491962,14.4,Victim Report,China,Fake Invoice,CFO,2FA,No
+SC-1431,Government,Fake Video Call,Hybrid,48112,3.5,Internal Audit,Nigeria,Urgent Wire Request,IT Admin,AI Monitoring,Yes (Arrest)
+SC-1432,Banking,CEO Fraud,Video,370496,3.3,Victim Report,Nigeria,Urgent Wire Request,HR,AI Monitoring,No
+SC-1433,Banking,Synthetic ID,Image,259627,1.2,Victim Report,China,Fake Credentials,CFO,AI Monitoring,Lawsuit Pending
+SC-1434,Banking,Fake Video Call,Video,395071,17.8,Victim Report,China,Phishing Link,CFO,Training,Yes (Arrest)
+SC-1435,Retail,Synthetic ID,Image,84998,19.8,Internal Audit,China,Urgent Wire Request,CFO,Training,No
+SC-1436,Banking,Fake Video Call,Audio,353966,10.4,Victim Report,China,Fake Credentials,Customer Support,Training,Lawsuit Pending
+SC-1437,Healthcare,Synthetic ID,Hybrid,408163,9.3,Victim Report,China,Phishing Link,HR,Training,Lawsuit Pending
+SC-1438,Retail,Synthetic ID,Audio,165974,1.5,Internal Audit,Iran,Urgent Wire Request,IT Admin,Training,No
+SC-1439,Healthcare,Voice Cloning,Hybrid,80052,14.9,Internal Audit,Iran,Fake Invoice,HR,2FA,No
+SC-1440,Government,Synthetic ID,Audio,53435,23.9,AI Scanner,Nigeria,Urgent Wire Request,IT Admin,AI Monitoring,Yes (Arrest)
+SC-1441,Government,CEO Fraud,Hybrid,229480,8.1,Victim Report,China,Fake Credentials,IT Admin,Training,No
+SC-1442,Banking,CEO Fraud,Hybrid,287882,7.0,AI Scanner,Nigeria,Urgent Wire Request,HR,2FA,Lawsuit Pending
+SC-1443,Government,Fake Video Call,Audio,446766,14.7,Victim Report,Russia,Fake Credentials,IT Admin,None,No
+SC-1444,Healthcare,Voice Cloning,Hybrid,57635,18.9,Internal Audit,Nigeria,Phishing Link,HR,Training,Lawsuit Pending
+SC-1445,Banking,Synthetic ID,Image,146898,12.5,Internal Audit,Nigeria,Phishing Link,CFO,Training,Yes (Arrest)
+SC-1446,Tech,Fake Video Call,Hybrid,231804,4.9,Human Review,Iran,Fake Credentials,IT Admin,None,Lawsuit Pending
+SC-1447,Retail,Voice Cloning,Audio,463322,16.3,Internal Audit,North Korea,Phishing Link,HR,None,Lawsuit Pending
+SC-1448,Tech,Fake Video Call,Image,415814,7.4,AI Scanner,North Korea,Phishing Link,HR,2FA,No
+SC-1449,Retail,Synthetic ID,Video,29172,4.5,Victim Report,Nigeria,Fake Invoice,IT Admin,AI Monitoring,Yes (Arrest)
+SC-1450,Healthcare,CEO Fraud,Hybrid,184414,12.1,Human Review,China,Fake Credentials,Customer Support,AI Monitoring,No
+SC-1451,Retail,CEO Fraud,Video,48644,23.3,Human Review,Russia,Fake Credentials,IT Admin,AI Monitoring,Lawsuit Pending
+SC-1452,Government,Fake Video Call,Image,319038,19.9,Human Review,Nigeria,Phishing Link,HR,None,Yes (Arrest)
+SC-1453,Government,Voice Cloning,Hybrid,237621,4.9,Internal Audit,Nigeria,Phishing Link,HR,2FA,No
+SC-1454,Government,Synthetic ID,Video,480716,8.8,Human Review,North Korea,Phishing Link,IT Admin,AI Monitoring,Lawsuit Pending
+SC-1455,Government,CEO Fraud,Audio,498079,15.2,Human Review,Iran,Phishing Link,IT Admin,2FA,Yes (Arrest)
+SC-1456,Retail,CEO Fraud,Audio,116608,19.0,Human Review,Russia,Fake Credentials,HR,AI Monitoring,No
+SC-1457,Tech,Synthetic ID,Video,440288,19.1,Human Review,Russia,Phishing Link,HR,2FA,Lawsuit Pending
+SC-1458,Tech,CEO Fraud,Video,122826,9.5,AI Scanner,China,Urgent Wire Request,CFO,2FA,Lawsuit Pending
+SC-1459,Retail,Voice Cloning,Audio,25324,21.2,AI Scanner,Iran,Urgent Wire Request,IT Admin,None,No
+SC-1460,Retail,Voice Cloning,Audio,463862,17.9,Internal Audit,Russia,Fake Credentials,Customer Support,2FA,Lawsuit Pending
+SC-1461,Tech,Synthetic ID,Hybrid,29592,7.2,Internal Audit,North Korea,Fake Credentials,HR,Training,Yes (Arrest)
+SC-1462,Banking,CEO Fraud,Video,426922,17.3,Internal Audit,Iran,Fake Invoice,HR,None,Lawsuit Pending
+SC-1463,Retail,Fake Video Call,Video,389940,11.1,Human Review,China,Phishing Link,Customer Support,None,No
+SC-1464,Tech,Synthetic ID,Hybrid,51717,17.2,Human Review,Nigeria,Fake Credentials,Customer Support,AI Monitoring,No
+SC-1465,Healthcare,CEO Fraud,Image,267278,3.9,Human Review,China,Urgent Wire Request,Customer Support,None,No
+SC-1466,Healthcare,Fake Video Call,Hybrid,394934,8.7,Victim Report,North Korea,Phishing Link,IT Admin,Training,Lawsuit Pending
+SC-1467,Banking,Synthetic ID,Image,41304,6.1,Human Review,North Korea,Urgent Wire Request,HR,None,Yes (Arrest)
+SC-1468,Tech,Fake Video Call,Hybrid,232510,4.2,Victim Report,Russia,Fake Invoice,CFO,2FA,Yes (Arrest)
+SC-1469,Government,Synthetic ID,Audio,162206,17.7,Victim Report,Russia,Fake Invoice,HR,2FA,Lawsuit Pending
+SC-1470,Banking,CEO Fraud,Hybrid,125603,5.5,Internal Audit,Nigeria,Fake Invoice,Customer Support,2FA,Lawsuit Pending
+SC-1471,Retail,CEO Fraud,Hybrid,231662,18.7,Human Review,Nigeria,Phishing Link,CFO,2FA,No
+SC-1472,Government,Voice Cloning,Audio,144081,9.6,Human Review,North Korea,Urgent Wire Request,IT Admin,None,No
+SC-1473,Banking,Fake Video Call,Image,320602,22.9,Victim Report,Nigeria,Fake Credentials,CFO,Training,Lawsuit Pending
+SC-1474,Healthcare,CEO Fraud,Audio,338449,22.6,Victim Report,China,Fake Invoice,IT Admin,AI Monitoring,Yes (Arrest)
+SC-1475,Tech,Voice Cloning,Audio,189915,4.8,AI Scanner,North Korea,Phishing Link,IT Admin,None,Lawsuit Pending
+SC-1476,Retail,Fake Video Call,Video,415970,10.5,Human Review,Iran,Fake Credentials,CFO,AI Monitoring,Yes (Arrest)
+SC-1477,Retail,Voice Cloning,Audio,26019,16.1,AI Scanner,Nigeria,Phishing Link,Customer Support,AI Monitoring,Yes (Arrest)
+SC-1478,Government,Voice Cloning,Image,37130,15.2,Internal Audit,North Korea,Fake Invoice,CFO,Training,Lawsuit Pending
+SC-1479,Banking,Voice Cloning,Hybrid,468466,23.0,Human Review,Nigeria,Fake Invoice,CFO,2FA,Yes (Arrest)
+SC-1480,Healthcare,Voice Cloning,Image,277462,23.4,AI Scanner,Nigeria,Fake Credentials,CFO,None,No
+SC-1481,Healthcare,Fake Video Call,Image,496523,13.3,Human Review,Nigeria,Phishing Link,CFO,None,Yes (Arrest)
+SC-1482,Government,Synthetic ID,Hybrid,113725,8.6,Victim Report,China,Urgent Wire Request,CFO,AI Monitoring,No
+SC-1483,Healthcare,Synthetic ID,Hybrid,343017,6.0,Internal Audit,Nigeria,Urgent Wire Request,IT Admin,AI Monitoring,Lawsuit Pending
+SC-1484,Healthcare,Fake Video Call,Image,336185,17.9,AI Scanner,North Korea,Urgent Wire Request,Customer Support,AI Monitoring,Yes (Arrest)
+SC-1485,Retail,Fake Video Call,Hybrid,300086,12.3,Internal Audit,Nigeria,Urgent Wire Request,CFO,2FA,Yes (Arrest)
+SC-1486,Healthcare,CEO Fraud,Hybrid,258241,3.0,AI Scanner,Russia,Fake Credentials,HR,2FA,Lawsuit Pending
+SC-1487,Tech,Fake Video Call,Hybrid,495669,22.6,Human Review,China,Phishing Link,Customer Support,AI Monitoring,No
+SC-1488,Banking,Synthetic ID,Video,194591,23.6,AI Scanner,China,Urgent Wire Request,Customer Support,None,No
+SC-1489,Government,Voice Cloning,Image,63483,3.5,Human Review,China,Phishing Link,IT Admin,Training,Yes (Arrest)
+SC-1490,Healthcare,Fake Video Call,Hybrid,155717,15.7,AI Scanner,Iran,Fake Credentials,CFO,AI Monitoring,Lawsuit Pending
+SC-1491,Retail,Fake Video Call,Image,43933,8.6,Internal Audit,China,Phishing Link,Customer Support,2FA,Yes (Arrest)
+SC-1492,Banking,CEO Fraud,Hybrid,311967,11.1,Victim Report,China,Fake Invoice,Customer Support,AI Monitoring,Lawsuit Pending
+SC-1493,Government,Fake Video Call,Image,485550,23.9,Internal Audit,China,Phishing Link,HR,None,Lawsuit Pending
+SC-1494,Healthcare,Synthetic ID,Hybrid,101742,10.1,Internal Audit,North Korea,Urgent Wire Request,IT Admin,2FA,Lawsuit Pending
+SC-1495,Banking,CEO Fraud,Hybrid,59704,10.0,Internal Audit,Iran,Fake Invoice,IT Admin,AI Monitoring,No
+SC-1496,Government,Voice Cloning,Hybrid,155123,20.6,Human Review,China,Fake Credentials,Customer Support,2FA,Yes (Arrest)
+SC-1497,Retail,Synthetic ID,Video,430935,10.5,Internal Audit,North Korea,Fake Credentials,CFO,None,No
+SC-1498,Healthcare,Synthetic ID,Video,312984,5.8,Victim Report,North Korea,Urgent Wire Request,HR,2FA,No
+SC-1499,Government,Synthetic ID,Hybrid,41199,8.1,Victim Report,China,Fake Invoice,HR,2FA,Lawsuit Pending
+SC-1500,Healthcare,Fake Video Call,Audio,328004,1.5,Internal Audit,China,Fake Credentials,IT Admin,None,No
